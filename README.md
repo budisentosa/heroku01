@@ -23,6 +23,10 @@ $ heroku local
 
 heroku local web -f Procfile.windows
 
+https://devcenter.heroku.com/articles/getting-started-with-python#push-local-changes
+
+https://devcenter.heroku.com/articles/getting-started-with-python#start-a-console
+
 
 ```
 
